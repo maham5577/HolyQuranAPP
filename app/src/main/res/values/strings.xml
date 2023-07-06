@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HolyQuranApp</string>
+    <string name="search">Search</string>
+    <string name="search_verse">Search_Ayat</string>
+    <string name="Search">search</string>
+    <string name="search_ayat">SearchAyat</string>
+    <string name="QuranApp">quranapp</string>
+</resources>
